@@ -1,0 +1,4 @@
+In this project turtle bot was used, along with the provided playground world.
+The project uses the AMCL (Adaptive Monte Carlo Localisation) package for localisation.
+This package takes a map and allows the robot to localise itself in the map so that it can move to target locations.
+

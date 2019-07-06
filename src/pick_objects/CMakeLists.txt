@@ -199,5 +199,5 @@ include_directories(
 # catkin_add_nosetests(test)
 
 
-#add_executable(pick_objects src/pick_objects.cpp)
-#target_link_libraries(pick_objects ${catkin_LIBRARIES})
+add_executable(pick_objects src/pick_objects.cpp)
+target_link_libraries(pick_objects ${catkin_LIBRARIES})
