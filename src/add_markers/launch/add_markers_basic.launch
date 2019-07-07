@@ -1,0 +1,8 @@
+<launch>
+
+  <!-- The pick_objects node -->
+  <node name="add_markers_basic" type="add_markers_basic" pkg="add_markers" output="screen">
+  </node>
+
+</launch>
+
